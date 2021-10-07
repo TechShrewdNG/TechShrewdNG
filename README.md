@@ -8,9 +8,19 @@ I'm a Web Developer, Ad Specialist, and Teacher. I'm passionate about sharing kn
 
 Useful Links 🌻
 
-    <a href="https://nnamdisensei.com/">Personal Website</a> 
-    <a href="https://twitter.com/nnamdisensei">Twitter</a>
-    <a href="https://instagram.com/nnamdisensei">Instagram</a>
-    <a href="https://linkedin.com/in/nnamdiawurumibe">LinkedIn</a>
-    
-    
+<li>
+    <a href="https://nnamdisensei.com/" rel="nofollow">
+    Personal Website</a>
+</li>
+<li>
+    <a href="https://twitter.com/nnamdisensei" rel="nofollow">
+    Twitter</a>
+</li>
+<li>
+    <a href="https://instagram.com/nnamdisensei" rel="nofollow">
+    Instagram</a>
+</li>
+<li>
+    <a href="https://linkedin.com/in/nnamdiawurumibe" rel="nofollow">
+    LinkedIn</a>
+</li>

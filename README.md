@@ -1,8 +1,8 @@
 Holla 👋🏾
 
-I'm a Web Developer, Ad Specialist, and Teacher. I'm passionate about sharing knowledge, Web Development and Headless E-Commerce with JAMstack.
+I'm a Web Developer and Software Engineer. I'm passionate about new Web Technologies and Headless E-Commerce with JAMstack.
 
-    💬 Ask me about: Web Development, JAMstack, Headless E-Commerce, WordPress, Vue, Gatsby
+    💬 Ask me about: Web Development, JAMstack, Headless E-Commerce, WordPress, React, Gatsby
     📫 How to reach me: DM @nnamdisensei
     😊 Pronouns: He/him
 

@@ -1,6 +1,6 @@
 Holla 👋🏾
 
-I'm a Web Developer and Software Engineer. I'm passionate about new Web Technologies and Headless E-Commerce with JAMstack.
+I'm Nnamdi Awurumibe. A Web Developer and Software Engineer. I'm passionate about emerging Web Technologies, PWAs and Headless E-Commerce with JAMstack. I help startups and established businesses develop custom online environments.
 
     💬 Ask me about: Web Development, JAMstack, Headless E-Commerce, WordPress, React, Gatsby
     📫 How to reach me: DM @nnamdisensei
